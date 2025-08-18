@@ -2,12 +2,12 @@
 
 I earned my Master’s degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/en/) <img src='./img/thu.png' style='width: 2em;'>, where I conducted research under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm) and collaborated closely with [Prof. Yebin Liu](https://www.liuyebin.com/) on 3DV & Human Avatar Reconstruction. Prior to this, I completed my B.Eng. in Measurement and Control Technology & Instruments at [Southeast University](https://www.seu.edu.cn/english/) <img src='./img/seu.png' style='width: 2em;'>. During my graduate studies, I also had the privilege of visiting [Harvard University](https://www.harvard.edu/) <img src='./img/seas.png' style='width: 1.2em;'> as a research intern, working with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister) on computer graphics.
 
-I am currently an Researcher at ByteDance Seed <img src='./img/bytedance.png' style='width: 6em;'>, focusing on cutting-edge challenges in <b>perception, generation, and world model</b>. <a href='https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl=en&authuser=1'><img src='./img/scholar_badge.svg' alt='Google Scholar Citations' style='height: 1.5em; vertical-align: middle;'></a>
+I am currently an Researcher at ByteDance Seed <img src='./img/bytedance.png' style='width: 6em;'>, focusing on cutting-edge challenges in <b>perception, generation, and world model</b>. 
 
 
 ### 📎 Homepages
-- Personal Pages: https://minghanqin.github.io/
-- Google Scholar: https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl
+- [Personal Pages](https://minghanqin.github.io/)
+- Google Scholar <a href='https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl=en&authuser=1'><img src='./img/scholar_badge.svg' alt='Google Scholar Citations' style='height: 1.5em; vertical-align: middle;'></a>
 
 ## Open Opportunities
 
