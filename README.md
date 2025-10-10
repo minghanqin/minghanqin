@@ -23,7 +23,8 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 
 ## News
-- *2024.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2025 !!!
+- *2025.09*: &nbsp;🎉🎉 3 paper accepted to NeurIPS 2025 !!!
+- *2025.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2025 !!!
 - *2025.06*: &nbsp;🎉🎉 2 paper accepted to ICCV 2025 !!!
 - *2025.06*: &nbsp;🎉🎉 NOVA3D has been selected as ICME 2025 <font color="red"><b>Bestpaper Candidate</b></font>!!!
 - *2025.02*: &nbsp;🎉🎉 2 paper accepted to CVPR 2025 !!!
